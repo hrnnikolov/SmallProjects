@@ -15,4 +15,4 @@ maxscore=[]
 for i in scores:                #pick the highest score
     maxscore.append(max(i))
 scores=maxscore
-diagram()                       #make a graph
+diagram()                       #make a graph!
